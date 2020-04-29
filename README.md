@@ -1,6 +1,6 @@
 # Abstract -
 
-The purpose of this IMDB TV Shows Database project is to create a database consisting of TV show information gathered from popular rating websites as well as the social media. The data collected for this project was extracted from a myriad of sources such as web scraping of imdb.com using Python libraries, crawling  of Twitter & Youtube REST APIs, and a dataset consisting of the ratings of TV shows from Netflix. The goal of this Project is to create a thematic data model that can integrate all these sources & load it into the MySQL database .
+The purpose of this IMDB TV Shows Database project is to create a database consisting of TV show information gathered from popular rating websites as well as the social media. The data collected for this project was extracted from a myriad of sources such as web scraping of imdb.com using Python libraries, crawling  of Twitter & Youtube REST APIs, and a dataset consisting of the ratings of TV shows from Netflix. The goal of this Project is to design a thematic data model, integrate all these sources & load it into the MySQL database .
 
 # Files & Folders - 
 
