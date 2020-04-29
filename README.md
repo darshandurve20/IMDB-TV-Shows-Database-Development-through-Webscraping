@@ -14,5 +14,5 @@ The purpose of this IMDB Database project is to create a database consisting of 
 - TVDB DML.sql - Scripts that contain the transformation that was done on the stage tables and the data while loading into the main tables
 - Physical ER Model.jpeg - Physical Model of the Destination area after Normalization
 - SQL Scripts - Complete Folder of scripts written for Normalization & to create indexes, views, functions, procedures etc on the MySWL Database
-- Actions.pdf - Report of the few of the actions to be performed on the database
+- Actions.pdf - Report of few of the actions performed on the database
 - LICENSE.txt - licensing information for the project docs
